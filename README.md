@@ -2,6 +2,8 @@
 
 Este repositorio contiene el material utilizado durante el workshop "Functional APIs" impartido por Habla Computing en la conferencia [WeCode'19](https://wecodefest.com/#js-apis).
 
+Slides [here](https://docs.google.com/presentation/d/1y9iALgKTjzJkSakIKK9S4OnovMtfVJrZD0Z4rgusOvY/edit?usp=sharing)!
+
 Aquí encontraréis también una copia de `sbt`, la herramienta de builds de Scala más común. Una vez clonado localmente el repositorio, mediante el siguiente comando se descargarán todas las dependencias necesarias para compilar los programas del workshop (el propio compilador de Scala, entre otras cosas):
 
 ```bash
